@@ -2,6 +2,9 @@
 Welcome to this 'Build Web API With Django Rest Framework' project. 
 ***
 
+## Thanks
+Very very special thanks for the tutorial to [Bobby Stearman](https://github.com/bobby-didcoding). His original repo is [link](https://github.com/bobby-didcoding/drf_course).
+
 ## Prerequisites
 - Python=>3.10
 
